@@ -36,7 +36,7 @@ Projects are organized by **engineering domain**, making it easy for recruiters 
 
 - **Cloud:** AWS (EC2, VPC, S3, Lambda, RDS, CloudFront, CloudWatch, etc.)  
 - **IaC:** CloudFormation (primary), Terraform (learning)  
-- **Containers:** Docker, Kubernetes (EKS optional)  
+- **Containers:** Docker, Kubernetes (EKS)  
 - **CI/CD:** GitHub Actions (personal account pipelines)  
 - **Observability:** CloudWatch, Prometheus, Grafana  
 - **Security:** IAM, Secrets Management, VPC & Security Groups  
