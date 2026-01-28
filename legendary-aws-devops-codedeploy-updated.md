@@ -97,8 +97,6 @@ To check that the deployment was a success, I visited the IPv4 DNS address of th
 
 ---
 
-## Disaster Recovery
-
 ---
 
 ---
